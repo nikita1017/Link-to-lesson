@@ -1,0 +1,22 @@
+a{ 
+	background: firebrick;
+	position: absolute;
+	left: 50%;
+	bottom: 50%;
+	transform: translate( -50%, -50%)
+	color: #FFFFFF;
+	font-family: 'Playfair Display', serif;
+	background: #a502b8;
+	text-decoration: none;
+	border-radius: 15px;
+	display: inline-block;
+	padding: 10px;
+	margin: 10px auto;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	transition: 0.5s;
+}
+body{
+	text-align: center;
+	background: url("Фон для ссылки.jpg");
+	background-size: cover;
+    }
